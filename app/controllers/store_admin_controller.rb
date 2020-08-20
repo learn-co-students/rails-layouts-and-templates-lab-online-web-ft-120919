@@ -1,4 +1,4 @@
 class StoreAdminController < ApplicationController
-    def home
-    end
+  layout "admin"
+    
 end
